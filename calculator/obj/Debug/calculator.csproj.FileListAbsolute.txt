@@ -1,0 +1,40 @@
+C:\Users\Stefana\Desktop\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Stefana\Desktop\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Stefana\Desktop\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Stefana\Desktop\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Stefana\Desktop\calculator\calculator\obj\Debug\calculator.frmCalculator.resources
+C:\Users\Stefana\Desktop\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Stefana\Desktop\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\Stefana\Desktop\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Stefana\Desktop\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\srusu\Desktop\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\srusu\Desktop\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\srusu\Desktop\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\srusu\Desktop\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\srusu\Desktop\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\srusu\Desktop\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\srusu\Desktop\calculator\calculator\obj\Debug\calculator.frmCalculator.resources
+C:\Users\srusu\Desktop\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\srusu\Desktop\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\Stefana\Downloads\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Stefana\Downloads\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Stefana\Downloads\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Stefana\Downloads\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Stefana\Downloads\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Stefana\Downloads\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Stefana\Downloads\calculator\calculator\obj\Debug\calculator.frmCalculator.resources
+C:\Users\Stefana\Downloads\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Stefana\Downloads\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\Stefana\Desktop\CSCI312_HW4\calculator\bin\Debug\calculator.exe.config
+C:\Users\Stefana\Desktop\CSCI312_HW4\calculator\obj\Debug\calculator.exe
+C:\Users\Stefana\Desktop\CSCI312_HW4\calculator\obj\Debug\calculator.pdb
+C:\Stefana\Fall 2016\Data Structures& Algorithms\HW\CSCI312_HW4\calculator\bin\Debug\calculator.exe.config
+C:\Stefana\Fall 2016\Data Structures& Algorithms\HW\CSCI312_HW4\calculator\bin\Debug\calculator.exe
+C:\Stefana\Fall 2016\Data Structures& Algorithms\HW\CSCI312_HW4\calculator\bin\Debug\calculator.pdb
+C:\Stefana\Fall 2016\Data Structures& Algorithms\HW\CSCI312_HW4\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Stefana\Fall 2016\Data Structures& Algorithms\HW\CSCI312_HW4\calculator\obj\Debug\calculator.frmCalculator.resources
+C:\Stefana\Fall 2016\Data Structures& Algorithms\HW\CSCI312_HW4\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Stefana\Fall 2016\Data Structures& Algorithms\HW\CSCI312_HW4\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Stefana\Fall 2016\Data Structures& Algorithms\HW\CSCI312_HW4\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Stefana\Fall 2016\Data Structures& Algorithms\HW\CSCI312_HW4\calculator\obj\Debug\calculator.exe
+C:\Stefana\Fall 2016\Data Structures& Algorithms\HW\CSCI312_HW4\calculator\obj\Debug\calculator.pdb
